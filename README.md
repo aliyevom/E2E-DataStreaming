@@ -13,7 +13,7 @@ Explore the intricacies of constructing a comprehensive end-to-end data engineer
 
 ## Architecture Overview
 
-![System Architecture]()
+![System Architecture](https://github.com/aliyevom/E2E-DataStreaming/blob/main/Data%20engineering%20architecture.jpg?raw=true)
 
 The project comprises the following key components:
 
